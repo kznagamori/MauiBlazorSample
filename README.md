@@ -1,0 +1,2 @@
+# MauiBlazorSample
+dotnet sdkでmaui-blazorのWindowsアプリを作成するサンプル
